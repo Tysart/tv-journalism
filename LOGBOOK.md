@@ -40,3 +40,12 @@
 - **Free vs. Paid Funnel Strategy Approved:** 16:9 full stories («Будни журналиста») will be published for free on YouTube & VK to build trust and audience reach, while the structured 10-lesson course remains the paid flagship product.
 - **Course Video Standard Built:** 16:9 Full HD, Sony S-Log3 Type A 3D LUT, Lower Third graphic overlay («Ирина Тыщенко — тележурналист, 25+ лет в эфире»), 2-second broadcast bumpers, and multicam punch-ins from 4K FX30 footage.
 - **Pilot Lesson 00 Launched:** Started batch rendering of `00_intro_greeting_lesson.mp4` (~1.5 min clean cut).
+
+## 2026-10-23 — Pilot Lesson 00 Render Complete
+- **File Rendered:** `/Users/artemtysenko/Projects/Antigraviti/tv-journalism-course/lessons/00_intro_greeting_lesson.mp4` (2:22 min, 88.1 MB, 1080p Full HD).
+- **Production Pipeline Proven:**
+  - Applied Sony S-Log3 Type A 3D LUT (perfect warm contrast & skin tone).
+  - Cleaned audio with EBU R128 (-16 LUFS) normalization.
+  - Added Lower Third TV overlay («ИРИНА ТЫЩЕНКО — Тележурналист • Стаж 25+ лет • Автор курса»).
+  - Seamless multicam switch between Wide shot and 1.25x Close-up crop from 4K FX30 source.
+  - 2.0-second broadcast intro and outro bumpers with smooth synth audio chimes.
