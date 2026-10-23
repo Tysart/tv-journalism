@@ -34,3 +34,9 @@
 - **GitHub Repository Created:** https://github.com/Tysart/tv-journalism
 - **Live Landing Page Published (GitHub Pages):** https://tysart.github.io/tv-journalism/
 - **Documentation & Syllabus in README:** Formatted for easy reading and review by Irina Vitalyevna.
+
+## 2026-10-23 — Mobile Polish & Course Lesson 00 Render Started
+- **Mobile Overhaul:** Fully responsive header, clamp-based titles, zero horizontal scroll, iOS input zoom fixed (16px font-size).
+- **Free vs. Paid Funnel Strategy Approved:** 16:9 full stories («Будни журналиста») will be published for free on YouTube & VK to build trust and audience reach, while the structured 10-lesson course remains the paid flagship product.
+- **Course Video Standard Built:** 16:9 Full HD, Sony S-Log3 Type A 3D LUT, Lower Third graphic overlay («Ирина Тыщенко — тележурналист, 25+ лет в эфире»), 2-second broadcast bumpers, and multicam punch-ins from 4K FX30 footage.
+- **Pilot Lesson 00 Launched:** Started batch rendering of `00_intro_greeting_lesson.mp4` (~1.5 min clean cut).
