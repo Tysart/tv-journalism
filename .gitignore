@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+shorts/*.mp4
+*.mp4
+*.mov
+*.wav
+*.mp3
+scratch/
