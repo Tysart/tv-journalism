@@ -29,3 +29,8 @@
   - `styles.css`: Custom broadcast design system, responsive grid, gold glow effects, interactive accordions.
   - `app.js`: Module & FAQ accordions, mobile drawer navigation, interactive payment modal with YooKassa / Telegram Bot integration.
   - Visuals integrated: Authentic portrait of Irina Vitalyevna, avatar badges, and 7 story teasers.
+
+## 2026-10-23 — Published to GitHub & Live on GitHub Pages
+- **GitHub Repository Created:** https://github.com/Tysart/tv-journalism
+- **Live Landing Page Published (GitHub Pages):** https://tysart.github.io/tv-journalism/
+- **Documentation & Syllabus in README:** Formatted for easy reading and review by Irina Vitalyevna.
