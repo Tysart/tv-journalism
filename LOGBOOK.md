@@ -60,3 +60,10 @@
 - **Rendered Clean Multicam & Full Broadcast Graphics Masters:**
   - `lessons/00_intro_greeting_multicam.mp4` (1:25.8 clean 2-camera cut) & `lessons/00_intro_greeting_lesson.mp4` (1:29.8 with bumpers + lower third + 2 infographic cards).
   - `lessons/01_lesson_1_multicam.mp4` (14:48.5 clean 2-camera cut, 27 switches) & `lessons/01_lesson_1_full.mp4` (14:52.5 with bumpers + lower third + 10 educational infographic cards).
+
+### 2026-10-30 — Модернизация эфирных заставок (4.0 сек Split-Screen) и разделение Урока 1
+- **Новые 4.0-секундные контрастные заставки (`modern_intro_*.mp4`):** Заменён старый 2-секундный центральный бампер с жёлтым свечением на современный широкоэкранный Split-Screen дизайн (справа — живой 4K-кадр спикера в студии, слева — матовая обсидиановая плашка `#080D19` с контрастом 21:1, чистой белой и золотой типографикой и плавным затуханием).
+- **Разделение `C1253.mp4` на Автобиографию и Чистый Урок 1:**
+  - `lessons/00_biography_master_lesson.mp4` (`04:11`, 4 инфо-карточки) — отдельное видео «Знакомство с мастером: путь в профессию (25+ лет в печати и эфире)».
+  - `lessons/01_lesson_1_clean.mp4` (`10:51`, 7 инфо-карточек) — чистое **Занятие 1: «Журналистика: от древности до наших дней»**, которое с первой же секунды начинается со слов *«Итак, начинаем наше первое занятие! В тетрадях запишем тему...»*.
+  - `lessons/00_intro_greeting_lesson.mp4` (`01:33`, 3 инфо-карточки) — обновлено с новой 4-секундной заставкой.
