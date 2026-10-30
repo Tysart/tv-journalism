@@ -49,3 +49,14 @@
   - Added Lower Third TV overlay («ИРИНА ТЫЩЕНКО — Тележурналист • Стаж 25+ лет • Автор курса»).
   - Seamless multicam switch between Wide shot and 1.25x Close-up crop from 4K FX30 source.
   - 2.0-second broadcast intro and outro bumpers with smooth synth audio chimes.
+
+## 2026-10-30 — Dual-Camera Multicam Pipeline, AI Video Editing Bible & Lesson 00 + Lesson 01 Master Renders
+- **SSD Dual-Camera Mapping Completed:** Matched all 24 graded close-up timelines (`/Volumes/ArtemTys/В работе/Курс/Крупный/Timeline *.mp4`) to the 31 graded wide-angle files (`Общий/C1253..C1283.mp4`) with 0.0000s audio sync lag.
+- **Created Master SOP (`AI_VIDEO_EDITING_BIBLE.md`):** Documented the complete end-to-end architecture for any AI model (Flash/Argon/Claude/GPT) and future podcast-to-Reels SaaS packaging:
+  - 50ms RMS audio silence/speech boundary detector.
+  - 21x realtime single-pass multicam switching via `-hwaccel videotoolbox` and `[wide][close]overlay=enable='...'`.
+  - Safe-zone coordinates for 9:16 Reels (`Y=340..1250` face protection zone) and 16:9 Course Infographics (`X=70..865` left split-screen zone).
+  - In-memory PNG loop filter (`loop=loop=-1:size=1:start=0`) + `eof_action=pass` to prevent infinite loops and speed up multi-card overlays.
+- **Rendered Clean Multicam & Full Broadcast Graphics Masters:**
+  - `lessons/00_intro_greeting_multicam.mp4` (1:25.8 clean 2-camera cut) & `lessons/00_intro_greeting_lesson.mp4` (1:29.8 with bumpers + lower third + 2 infographic cards).
+  - `lessons/01_lesson_1_multicam.mp4` (14:48.5 clean 2-camera cut, 27 switches) & `lessons/01_lesson_1_full.mp4` (14:52.5 with bumpers + lower third + 10 educational infographic cards).
